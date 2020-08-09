@@ -6,5 +6,7 @@
 <h4>Prove that this is my website: PUTYOURNAMEHERE<h4>
 <h4>My favorite YouTube video!<h4>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FCJsLUdk4yw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h4>Checkout this amazing Discord with Python Coding in it!!!!!!<h4>
+<iframe src="https://discord.com/widget?id=742123054267629569&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 </body>
 </html>
